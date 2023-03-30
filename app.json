@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Uno Collect",
+    "slug": "uno-collect",
+    "version": "1.3.0",
+    "orientation": "portrait",
+    "icon": "./assets/logoUnoCollect.png",
+    "splash": {
+      "image": "./assets/splashUnoCollect.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#363333"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "android": {
+      "package": "com.unocomunicacao.unocollect",
+      "versionCode": 8
+    }
+  }
+}
